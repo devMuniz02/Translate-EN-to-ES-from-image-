@@ -1,4 +1,4 @@
-# Translate-EN-to-ES-from-image-
+# Translate EN to ES from image
 
 ## 📌 Overview
 This project extracts text from images using **EasyOCR** and translates the extracted text from **English to Spanish** using a **Hugging Face NLP model** (`Helsinki-NLP/opus-mt-en-es`). The results are displayed in a **side-by-side format**, with:
